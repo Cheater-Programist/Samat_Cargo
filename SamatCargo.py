@@ -1,5 +1,5 @@
 from aiogram import Bot, Dispatcher, types, executor
-import random, logging, sqlite3, subprocess
+import logging, sqlite3
 
 bot = Bot(token='7431398748:AAH8EeYiftjRXlP5POIZAzYRadijPiOyNzg')
 dp = Dispatcher(bot)
